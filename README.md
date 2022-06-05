@@ -6,10 +6,10 @@ EFI FILES FOR MY HACKINTOSH BUILD
 
 **Latest working macOS**: 12.4
 <br>
-**Current OpenCore**: 0.7.8
+**Current OpenCore**: 0.8.0
 
 ## Hardware Specs
-- Intel i9 12900KF @ Stock (All cores (P+E+HT) activated)
+- Intel i9 12900KF
 - Asus TUF Gaming Z690-Plus D4 ATX
 - Radeon™ RX 5600 XT WINDFORCE OC 6G
 - 2x 8Gb DDR4 3200Mhz HyperX (Underclocked because of some issues)
