@@ -2,7 +2,7 @@
 EFI FILES FOR MY HACKINTOSH BUILD
 
 
-![about-12 3 1](https://user-images.githubusercontent.com/23700365/161353027-9aaeddf5-7457-49a8-b322-4e99ab94c679.png](https://i.imgur.com/AbrhIqK.png)
+![about-12 3 1](https://i.imgur.com/AbrhIqK.png)
 
 **Latest working macOS**: 12.4
 <br>
