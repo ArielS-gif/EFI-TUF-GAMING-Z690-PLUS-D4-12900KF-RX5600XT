@@ -1,12 +1,12 @@
-# EFI-TUF-GAMING-Z690-PLUS-D4-12900K-RX5600XT
+# EFI-TUF-GAMING-Z690-PLUS-D4-12900KF-RX5600XT
 EFI FILES FOR MY HACKINTOSH BUILD
 
 
 ![about-12 3 1](https://i.imgur.com/AbrhIqK.png)
 
-**Latest working macOS**: 12.4
+**macOS Version**: 12.4
 <br>
-**Current OpenCore**: 0.8.0
+**OC Version**: 0.8.0
 
 ## Hardware Specs
 - Intel i9 12900KF
